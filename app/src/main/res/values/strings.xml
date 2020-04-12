@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">FirstAndroidGame</string>
+    <string name="countPush">0</string>
 </resources>
